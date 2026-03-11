@@ -91,8 +91,8 @@ To help startups and businesses transform their ideas into powerful, scalable di
 ## 📬 Connect With Us
 
 🌐 Website: Coming Soon  
-💼 LinkedIn: https://www.linkedin.com/company/fubellatech  
-📧 Email: contact@fubellatech.com
+💼 LinkedIn: [https://www.linkedin.com/company/fubellatech](https://www.linkedin.com/company/fubellatech/about/?viewAsMember=true)  
+📧 Email: fubellatech@gmail.com
 
 ---
 
